@@ -30,14 +30,14 @@ In every page there is a **header** which shows the logo of the website, product
 >
 > We can also subscribe to the website by providing the email address. Once you enter a valid address, then it redirects to home page.
 
-I have added Java Script to display current time, for button clicks, email subscription validation and the different images to be displayed on the home page.
+Added Java Script to display current time, for button clicks, email subscription validation and the different images to be displayed on the home page.
 
 ## For the next steps:
-> I would like to add the registration page for a new user, login page, search button when we search for products then the desirable product should be displayed, cart. 
+> Add the registration page for a new user, login page, search button when we search for products then the desirable product should be displayed, cart. 
 >
->> I want to add java script for the pop up alert message for the notifications, search bar and to update the cart when people updates the cart such as addition or deletion of the products.
+>> Add java script for the pop up alert message for the notifications, search bar and to update the cart when people updates the cart such as addition or deletion of the products.
 >
-> I want to add database for the website to store the orders.
+> Add database for the website to store the orders.
 
 
 
