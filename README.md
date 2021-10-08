@@ -13,8 +13,15 @@ This project has different pages such as
 In every page there is a **header** which shows the logo of the website, products and the sub categories of the products, about and contact us buttons which navigate to their respective pages. A **Navigation bar** which shows  the five different products with their sub categories of the products. **A footer** which shows their logo and standard copyright text.
 
 > **Home Page** shows the current time along with hero images, two different product features and the customer tribute quote.
+>
 > **Product Page** shows different products with a small description and the price, if you select a product then it redirects to home page as of now.
+>
 > **About Page** shows the image of the founder and bit of history about the website.
-> **Contact Page** shows the contact details such as phn number, email, physical address of the webiste. We can also subscribe to the website by providing the email address. 
-
-
+>
+> **Contact Page** shows the contact details such as:
+>
+> - Phone number.
+> - Email address.
+> - Physical address of the webiste. 
+>
+> We can also subscribe to the website by providing the email address. 
