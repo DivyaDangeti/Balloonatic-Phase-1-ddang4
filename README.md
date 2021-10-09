@@ -2,8 +2,15 @@
 
 > CSCI-6655-02 Web database Appl Development Project Task-1
 
+## Contents
+- About the Website
+- Acheived
+- Next Steps
+
 ## About the Website
 **The Balloonatic Asylum** is a company which sells high quality latex and mylar ballloons at affordable prices. They also make customized hand-crafted ballons for any occasions. All you need to do is send them a photo of what you want and they will bring it to life as a quality balloon. They provide reliable service to the customers. 
+
+![alt text](https://github.com/DivyaDangeti/Balloonatic-Phase-1-ddang4/blob/main/Balloonatic-Phase-1-ddang4/Output%20screenshots/HomePage1.png)
 
 ## Acheived 
 > This project has different pages such as
@@ -32,7 +39,7 @@ In every page there is a **header** which shows the logo of the website, product
 
 Added Java Script to display current time, for button clicks, email subscription validation and the different images to be displayed on the home page.
 
-## For the next steps:
+## Next steps:
 > Add the registration page for a new user, login page, search button when we search for products then the desirable product should be displayed, cart. 
 >
 >> Add java script for the pop up alert message for the notifications, search bar and to update the cart when people updates the cart such as addition or deletion of the products.
